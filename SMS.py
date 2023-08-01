@@ -9,7 +9,6 @@ import os,requests,time
 time.sleep(1)
 os.system("clear")
 os.system("xdg-open https://github.com/9Team10-HR")
-os.system("xdg-open https://youtube.com/@MDHR-pl3dh")
 logo3=("""
 \033[1;99m╔════════════════════════════════════════════════════════════════════╗    
 \033[1;92m█ \033[0;35m   
