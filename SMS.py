@@ -8,7 +8,7 @@ os.system("git pull")
 import os,requests,time
 time.sleep(1)
 os.system("clear")
-os.system("xdg-open https://github.com/9Team10-HR")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100092553712823")
 logo3=("""
 \033[1;99m╔════════════════════════════════════════════════════════════════════╗    
 \033[1;92m█ \033[0;35m   
